@@ -33,6 +33,7 @@ node_modules
 
 #Ignore build folder
 build
+workerBuild
 
 #Ignore typings
 typings
